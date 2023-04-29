@@ -1,0 +1,1 @@
+Small personal project using openAI API and flask to moderate content
